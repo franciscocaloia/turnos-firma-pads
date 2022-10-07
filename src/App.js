@@ -114,6 +114,16 @@ function App() {
               a veces no encuentro mi mano porque el pad es del mismo tono que
               mi piel
             </option>
+            <option value="aguirre">uso el repasador de mi abuela</option>
+            <option value="orco de mierda">
+              Soy un clon de baldu pero todo verde
+            </option>
+            <option value="tucan">narigon choto</option>
+            <option value="pelado">pelado hijo de remil re puta</option>
+            <option value="balseiro">
+              uso un volante y le calculo el movimiento circular uniformemente
+              variado
+            </option>
           </select>
         </div>
         <button className="form__button">Reservar mi turno</button>
