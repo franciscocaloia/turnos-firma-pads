@@ -36,6 +36,10 @@ function App() {
             discapacidad,
             padSize,
           });
+          setName();
+          setDate();
+          setDiscapacidad();
+          setPadSize();
         }}
       >
         <div className="input__container">
