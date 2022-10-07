@@ -78,6 +78,18 @@ function App() {
             <option value="negro">
               No me veo con un nivel de luz menor a 10
             </option>
+            <option value="aguirre">soy negro y mi apellido es aguirre</option>
+            <option value="orco de mierda">
+              Soy un clon de baldu pero todo verde
+            </option>
+            <option value="tucan">soy cleptomano de oxigeno</option>
+            <option value="pelado">
+              el 80% de mi peso se concentra en mis tetas
+            </option>
+            <option value="aguirre">soy negro y mi apellido es aguirre</option>
+            <option value="balseiro">
+              Literalmente estudio en el balseiro
+            </option>
           </select>
         </div>
         <div className="input__container">
@@ -94,21 +106,9 @@ function App() {
             <option value="enano">
               lo uso de alfombra porque mi mesa esta al mismo nivel que mis pies
             </option>
-            <option value="aguirre">soy negro y mi apellido es aguirre</option>
-            <option value="orco de mierda">
-              Soy un clon de baldu pero todo verde
-            </option>
             <option value="grasoso">
               tiene coeficiente de rozamiento 0 gracias a la grasa que desprende
               mi brazo
-            </option>
-            <option value="tucan">soy cleptomano de oxigeno</option>
-            <option value="pelado">
-              el 80% de mi peso se concentra en mis tetas
-            </option>
-            <option value="aguirre">soy negro y mi apellido es aguirre</option>
-            <option value="balseiro">
-              Literalmente estudio en el balseiro
             </option>
             <option value="negro">
               a veces no encuentro mi mano porque el pad es del mismo tono que
